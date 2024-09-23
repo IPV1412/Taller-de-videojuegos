@@ -1,0 +1,1 @@
+rv -nomb -fullscreen -noBorders -fps 30.000000 Plano_Laberinto.avi Plano_Personaje.avi

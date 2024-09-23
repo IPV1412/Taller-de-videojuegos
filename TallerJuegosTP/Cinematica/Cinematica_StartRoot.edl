@@ -1,0 +1,9 @@
+TITLE: Cinematica_StartRoot
+FCM: NON-DROP FRAME
+
+001 AX V C 00:00:00:00 00:00:07:00 00:00:00:00 00:00:07:00
+* FROM CLIP NAME: Plano_Laberinto.avi
+
+002 AX V C 00:00:00:00 00:00:04:23 00:00:07:00 00:00:11:23
+* FROM CLIP NAME: Plano_Personaje.avi
+
