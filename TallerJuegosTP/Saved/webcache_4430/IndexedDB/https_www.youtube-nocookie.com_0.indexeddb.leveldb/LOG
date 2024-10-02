@@ -1,6 +1,8 @@
-2024/09/24-17:01:31.566 2e4c Creating DB C:/Users/A  M  I  R/Documents/GitHub/Taller-de-videojuegos/TallerJuegosTP/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/09/24-17:01:31.579 2e4c Reusing MANIFEST C:/Users/A  M  I  R/Documents/GitHub/Taller-de-videojuegos/TallerJuegosTP/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/24-17:06:23.644 810 Level-0 table #5: started
-2024/09/24-17:06:23.651 810 Level-0 table #5: 1167 bytes OK
-2024/09/24-17:06:23.653 810 Delete type=0 #3
-2024/09/24-17:06:23.653 810 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/02-02:44:09.746 592c Reusing MANIFEST C:/Users/A  M  I  R/Documents/GitHub/Taller-de-videojuegos/TallerJuegosTP/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/02-02:44:09.746 592c Recovering log #7
+2024/10/02-02:44:09.747 592c Reusing old log C:/Users/A  M  I  R/Documents/GitHub/Taller-de-videojuegos/TallerJuegosTP/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/10/02-02:54:08.596 3e0 Level-0 table #11: started
+2024/10/02-02:54:08.596 3e0 Level-0 table #11: 0 bytes OK
+2024/10/02-02:54:08.597 3e0 Delete type=0 #7
+2024/10/02-02:54:08.597 3e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/02-02:54:08.597 3e0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
